@@ -1,0 +1,5 @@
+http://example.com/2022/09/21/%E5%85%B3%E4%BA%8E%E6%88%91/
+http://example.com/tags/index.html
+http://example.com/categories/index.html
+http://example.com/about/index.html
+http://example.com/
